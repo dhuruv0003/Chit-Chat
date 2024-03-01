@@ -1,1 +1,1 @@
- Chat-room-project
+Chit Chat-project
